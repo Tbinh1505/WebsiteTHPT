@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.column{
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+.rows{
+    margin: 20px;
+    padding: 20;
+    display: grid;
+    grid-template-columns: repeat(3,1fr) ;
+    grid-gap: 50px;
+}
+
+.box1{
+    height: 40px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid black;
+
+}
+
+.box2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-align: center;
+}
+
+h4{
+    padding: 10px;
+    text-align: center;
+}
+
+.content a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+h4:hover{
+    color: red;
+}

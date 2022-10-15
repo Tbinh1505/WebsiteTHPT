@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+.container{
+    width: 100%;
+    min-height: 1000px;
+}
+
+.content{
+    text-align: left;
+    box-sizing: border-box;
+    padding-right: 5px;
+}
+h4{
+    margin: 10px;
+}
+
+.content .title{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.content .lgt{
+    text-align: center;
+}
+
+.content .tuyens{
+    text-align: center;
+}
+.content .tuyens img{
+    width: 450px;
+    height: 350px;
+}
+
+p{
+    text-align: justify;
+}
+
+.tieude{
+    border-bottom: 2px solid red;
+}
+
+.tieude h4{
+    color: red;
+}
+
+table{ 
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 10px;
+}
+th{
+        padding: 10px;
+}
+

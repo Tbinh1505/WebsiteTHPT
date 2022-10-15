@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    box-sizing: border-box;
+    margin: 10px auto;
+
+}
+
+.container .title{
+    border-bottom: 2px solid red;
+    color: red;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content{
+    padding: 10px;
+}
+
+.content h2{
+    font-size: 17px;
+    border-top: 1px solid;
+    border-bottom: 1px solid ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.content p{
+    padding: 10px;
+}
+
+.content a{
+    text-decoration: none;
+    color: blue;
+}
+h2:hover{
+    color: red;
+}
+
+

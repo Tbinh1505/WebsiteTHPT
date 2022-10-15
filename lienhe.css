@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    padding-top: 10px;
+    margin: 0px auto;
+    box-shadow: 0px 0px 2px 0px red;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.title>h4{
+    color: red;
+}
+.about{
+    padding-top: 10px;
+    box-shadow: 0px 0px 2px 0px red;
+    padding-bottom: 10px;
+}
+.about>h4{
+    text-transform: uppercase;
+}
+.infor{
+    padding-top: 10px;
+}
+
+.infor > .tieude{
+    width: 800px;
+    height: 50px;
+}
+.row>.nema{
+    width: 300px;
+    height: 50px;
+}
+.row1>.nema{
+    width: 300px;
+    height: 50px;
+}
+
+.row{
+    float: left;
+    margin: 0 auto;
+    padding-right: 197px;
+
+}
+
+.infor .click{
+    margin: 20px auto;
+
+}
+
+

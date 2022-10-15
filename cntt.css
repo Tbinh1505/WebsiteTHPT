@@ -1,0 +1,46 @@
+*{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    padding-top: 10px;
+}
+
+.content .logo{
+    text-align: center;
+    padding: 20px;
+}
+.content .logo img{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+.content .logo2{
+    text-align: center;
+}
+.content .logo2 img{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+}
+
+
+p{
+    text-align: center;
+    margin: 20px;
+}
+
+.title{
+    padding-top: 10px;
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+
+h4{
+    text-transform: uppercase;
+    margin: 20px;
+}
